@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+This repo is used for the scripts
