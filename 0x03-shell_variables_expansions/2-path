@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir $CDPATH/action
+export PATH="$PATH:/action"
